@@ -1,0 +1,9 @@
+config:
+  openai:
+#    api_key: ""
+    AZURE_OPENAI_KEY: ""
+    AZURE_OPENAI_ENDPOINT: ""
+    api_type: azure
+    api_version: 2023-05-15
+    chat_model: gpt-35-turbo
+
